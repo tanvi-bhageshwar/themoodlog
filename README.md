@@ -1,4 +1,5 @@
 # MoodLog — AI-Powered Personal Mood Journal & Emotional Insights
+DEPLOYMENT LINK - https://themoodlog.vercel.app/
 
 [![FastAPI](https://img.shields.io/badge/Backend-FastAPI_0.115+-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![React](https://img.shields.io/badge/Frontend-React_19_+_Vite-61DAFB?logo=react&logoColor=black)](https://react.dev)
