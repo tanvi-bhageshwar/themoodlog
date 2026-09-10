@@ -2,7 +2,7 @@ import axios from 'axios';
 
 // Create base Axios instance targeting the REST backend
 export const api = axios.create({
-  baseURL: '/api',
+baseURL: import.meta.env.VITE_API_URL,
   headers: {
     'Content-Type': 'application/json',
   },
