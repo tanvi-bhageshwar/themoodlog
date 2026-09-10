@@ -1,0 +1,6 @@
+{
+  "name": "MoodLog",
+  "description": "AI-powered personal mood journaling application with structured emotional analysis, empathetic reflections, and longitudinal wellness analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
